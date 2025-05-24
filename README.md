@@ -10,15 +10,15 @@ I love building things that solve real-world problems and sharing my work with t
 - 💻 Languages: `JavaScript`, `Python`, `C++`, `SQL`
 - 🌐 Frontend: `React`, `HTML`, `CSS`, `Tailwind CSS`
 - 🖥️ Backend: `Node.js`, `Express.js`, `MongoDB`, `Firebase`
-- 📊 Data: `MySQL`, `PostgreSQL`, `Elasticsearch`
-- 🔧 Tools: `Git`, `Docker`, `VS Code`, `Postman`
+- 📊 Data: `MySQL`, `PostgreSQL`
+- 🔧 Tools: `Git`, `VS Code`
 
 ## 📌 Featured Projects
 
 ### 🔹 [Adhyatri – Destination Recommendation System](https://github.com/Manav070902/adhyatri)
 A smart recommendation system that suggests travel destinations based on user preferences using ML algorithms.
 
-### 🔹 [Your Other Project Name](https://github.com/Manav070902/project-name)
+### 🔹 [GadgetGuru](https://github.com/Manav070902/GadgetGuru)
 Brief description of the project and the technologies used.
 
 ## 📝 Blog & Articles
@@ -27,16 +27,13 @@ Brief description of the project and the technologies used.
 - 📘 [Getting Started with Node.js and Express](#)
 
 ## 📫 Let's Connect
-
-- 🔗 [Portfolio Website](https://yourwebsite.com)
-- 💼 [LinkedIn](https://linkedin.com/in/your-username)
-- 🐦 [Twitter](https://twitter.com/your-handle)
-- 📬 Email: youremail@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/manav-singla-676151261/)
+- 📬 Email: manavsingla723@gmail.com
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manav070902&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manav070902&layout=compact&theme=radical)
 
 ---
 
