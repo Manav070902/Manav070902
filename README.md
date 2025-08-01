@@ -19,12 +19,8 @@ I love building things that solve real-world problems and sharing my work with t
 A smart recommendation system that suggests travel destinations based on user preferences.
 
 ### 🔹 [GadgetGuru](https://github.com/Manav070902/GadgetGuru)
-Brief description of the project and the technologies used.
+Gadget Guru is a collaborative eCommerce platform especially (electronic gadgets) developed using the MERN stack. It offers intuitive search and filtering, efficient state management, dynamic routing, and a secure checkout process.
 
-## 📝 Blog & Articles
-
-- ✍️ [How I Built a Travel Recommendation System](#)  
-- 📘 [Getting Started with Node.js and Express](#)
 
 ## 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/manav-singla-676151261/)
