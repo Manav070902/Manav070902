@@ -2,21 +2,21 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username)
 
-I'm a passionate developer with a focus on [your areas of interest, e.g., Web Development, Machine Learning, Cloud Computing].  
+I'm a passionate developer with a focus on  software Development and data analysis. 
 I love building things that solve real-world problems and sharing my work with the community.
 
 ## 🚀 Tech Stack
 
-- 💻 Languages: `JavaScript`, `Python`, `C++`, `SQL`
-- 🌐 Frontend: `React`, `HTML`, `CSS`, `Tailwind CSS`
+- 💻 Languages: `JavaScript`, `Python`, `java`, `SQL`
+- 🌐 Frontend: `React`, `HTML`, `CSS`
 - 🖥️ Backend: `Node.js`, `Express.js`, `MongoDB`, `Firebase`
 - 📊 Data: `MySQL`, `PostgreSQL`
-- 🔧 Tools: `Git`, `VS Code`
+- 🔧 Tools: `Git`, `VS Code`, `power BI`
 
 ## 📌 Featured Projects
 
 ### 🔹 [Adhyatri – Destination Recommendation System](https://github.com/Manav070902/adhyatri)
-A smart recommendation system that suggests travel destinations based on user preferences using ML algorithms.
+A smart recommendation system that suggests travel destinations based on user preferences.
 
 ### 🔹 [GadgetGuru](https://github.com/Manav070902/GadgetGuru)
 Brief description of the project and the technologies used.
